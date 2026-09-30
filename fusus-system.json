@@ -23,8 +23,8 @@
   },
   "serviceVersions": {
     "ruleengine": {
-      "version": null,
-      "reachable": false
+      "version": "2026.9",
+      "reachable": true
     }
   }
 }
