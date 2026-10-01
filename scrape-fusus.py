@@ -23,6 +23,7 @@ USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) FususClient/1.0"
 
 def clean_system_data(data):
     """Normalize system status, stripping volatile timestamps to prevent git churn."""
+    data.pop("serverTime", None)
     service_versions = {}
     for k, v in (data.get("serviceVersions") or {}).items():
         if isinstance(v, dict):
@@ -290,6 +291,15 @@ def scrape_one(loc):
             except Exception:
                 # Omit subpages that return 404 or fail without polluting error logs
                 pass
+
+    # Seattle privacy-policy returns 404 via HTTP but is available via browser render.
+    # Mirror from root if present (maintains backward compatibility per ADR 001).
+    if slug == "seattle" and portal_url:
+        root_privacy = PROJECT_DIR / "communityconnectseattle.org-privacy-policy.html"
+        data_privacy = slug_dir / "pages" / "privacy-policy.html"
+        if root_privacy.exists() and not data_privacy.exists():
+            import shutil
+            shutil.copy2(root_privacy, data_privacy)
 
     return results
 
