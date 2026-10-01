@@ -1,13 +1,15 @@
-# Scheduled scraper: Axon Fusus Surveillance Registries
+# Axon Fusus Surveillance Registries — Nationwide Archive
 
 This repository automatically scrapes and archives camera statistics, agency configurations, legal agreements, assets, and web pages across all subscriber portals hosted on the **Axon Fusus** platform (marketed as "Community Connect") nationwide.
 
+As of this commit: **328 portals** across **42 states + DC**, with **285,556 registered cameras** reported.
+
 It monitors:
 *   **Platform Status & Routing**: Core Fusus platform version, service versions, and external domain routes (`fusus-system.json`).
-*   **Agency Profiles & Legal Terms**: Organization configuration (`organization.json`) and full Memorandum of Understanding legal text (`mou.html`) for 328+ public safety agencies.
-*   **Agency Badges & Insignia**: Official agency badge/logo binary images (`logo.{ext}`) cached locally per jurisdiction.
-*   **Nationwide Surveillance Registries**: Camera metrics (registered, integrated, owned, shared, and subscribed counts) in append-only time series (`stats.jsonl`).
-*   **Public Portal Web Pages**: HTML snapshots (`pages/`) across subscriber sites, plus legacy Seattle-specific page tracking.
+*   **Agency Profiles & Legal Terms**: Organization configuration (`organization.json`) and full Memorandum of Understanding legal text (`mou.html`) for 321 agencies.
+*   **Agency Badges & Insignia**: Official agency badge/logo binary images (`logo.{ext}`) cached locally — 314 of 328 portals have logos.
+*   **Nationwide Surveillance Registries**: Camera metrics (registered, integrated, owned, shared, and subscribed counts) in append-only time series (`stats.jsonl`) — 326 portals reporting.
+*   **Public Portal Web Pages**: HTML snapshots (`pages/`) across subscriber sites — 326 portals with page captures.
 
 For technical investigation details, reverse-engineering methodology, and design choices, see [ADR 001](doc/adr/001-api-discovery-and-caching.md).
 
@@ -17,7 +19,7 @@ For technical investigation details, reverse-engineering methodology, and design
 
 This project uses [Git Scraping](https://simonwillison.net/2020/Oct/9/git-scraping/)—a technique popularized by Simon Willison—to pull updates on a schedule and commit any changes back to the repository.
 
-1.  **GitHub Actions Workflow**: A scheduled workflow (`.github/workflows/scrape.yml`) runs daily.
+1.  **GitHub Actions Workflow**: `.github/workflows/scrape.yml` runs on a daily schedule (06:23 UTC), on every push, and manually via `workflow_dispatch`.
 2.  **Master Portals List**: `update-portals.py` queries `https://axoncommunityconnect.com/locations.json` and updates `fusus-portals.json` and `fusus-portals.geojson`.
 3.  **Concurrent API & Data Collector**:
     *   Queries platform connectivity and system versioning: `https://api.fususone.com/api/public/connectivity-check/`
@@ -41,9 +43,9 @@ This project uses [Git Scraping](https://simonwillison.net/2020/Oct/9/git-scrapi
 *   `doc/adr/`: Architecture Decision Records documenting system design and investigations.
 *   `data/{slug}/`:
     *   `stats.jsonl`: Time-stamped JSON records tracking camera statistics over time.
-    *   `organization.json`: Agency profile, timezone, anonymous tip settings, and registration flags with canonical asset URLs.
+    *   `organization.json`: Agency profile, timezone, anonymous tip settings, and canonical asset URLs.
     *   `mou.html`: Public Memorandum of Understanding legal text (when present).
-    *   `logo.{ext}`: Downloaded agency badge/logo binary image.
+    *   `logo.{ext}`: Downloaded agency badge/logo binary image (when available).
     *   `pages/`: HTML snapshots of the agency's Community Connect web pages.
     *   `blocked.jsonl`: Error logs for rate limits or site failures.
 
