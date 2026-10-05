@@ -16,6 +16,22 @@
     "image": "https://cdn.swell.store/fusus-atlanta/69c2963ec34b3d0012df542e/25e5aae6cf5e767b584ad67294e551ee?width=1800&height=600"
   },
   {
+    "id": "uni-alaska",
+    "title": "Connect University of Alaska Fairbanks",
+    "url": "https://connectuaf.org",
+    "location": {
+      "city": "University of Alaska Fairbanks",
+      "state": "AK",
+      "coords": {
+        "lat": 64.85846,
+        "lng": -147.82212
+      }
+    },
+    "registry": null,
+    "org": null,
+    "image": "https://cdn.swell.store/fusus-atlanta/6a43bf98265b5f00121e7954/a0e03033d3bd054b22ec0b99d385e80b?width=1800&height=700"
+  },
+  {
     "id": "ashland",
     "title": "Connect Ashland",
     "url": "https://connectashland.org",
@@ -174,6 +190,22 @@
     "registry": "https://pellcitypd.fususregistry.com/camera-registry",
     "org": "pellcitypd",
     "image": "https://cdn.swell.store/fusus-atlanta/66ab9967c1db9700128df434/5d6a500a8b7c203f9ae89b2202d6ba5d/background-1.jpg"
+  },
+  {
+    "id": "trussville",
+    "title": "Connect Trussville",
+    "url": "https://trussvilleconnect.org",
+    "location": {
+      "city": "Trussville",
+      "state": "AL",
+      "coords": {
+        "lat": 33.62084,
+        "lng": -86.60337
+      }
+    },
+    "registry": "https://trussvillepd.fususregistry.com/camera-registry",
+    "org": "trussvillepd",
+    "image": "https://cdn.swell.store/fusus-atlanta/69cd357463565200121a2163/f4e42a652a10de682f5630f04a1235f6"
   },
   {
     "id": "tuscaloosa",
@@ -446,6 +478,38 @@
     "registry": "https://elcajonpdca.fususregistry.com/camera-registry",
     "org": "elcajonpdca",
     "image": "https://cdn.swell.store/fusus-atlanta/6925d72b2ca2da001280cddf/1a19a8b7b485eaabde2e159b401f2eaa"
+  },
+  {
+    "id": "fount-valley",
+    "title": "SafeFV",
+    "url": "https://safefv.org",
+    "location": {
+      "city": "Fountain Valley",
+      "state": "CA",
+      "coords": {
+        "lat": 33.70887,
+        "lng": -117.95215
+      }
+    },
+    "registry": "https://fountainvalleypdca.fususregistry.com/camera-registry",
+    "org": "fountainvalleypdca",
+    "image": "https://cdn.swell.store/fusus-atlanta/6a43d413f8a885001223f6d0/7b6aeea26329d23e43aee4701c35c168"
+  },
+  {
+    "id": "garden-grove",
+    "title": "Connect Garden Grove",
+    "url": "https://connectgardengrove.org",
+    "location": {
+      "city": "Garden Grove",
+      "state": "CA",
+      "coords": {
+        "lat": 33.77649,
+        "lng": -117.93576
+      }
+    },
+    "registry": "https://gardengrovepdca.fususregistry.com/camera-registry",
+    "org": "gardengrovepdca",
+    "image": "https://cdn.swell.store/fusus-atlanta/6a189f5d50a5090012594cd2/bd5c6c98288c2273123cc57511fabcc2"
   },
   {
     "id": "glendora",
@@ -1054,6 +1118,22 @@
     "registry": "https://montrosepdco.fususregistry.com/camera-registry",
     "org": "montrosepdco",
     "image": "https://cdn.swell.store/fusus-atlanta/6931cd93a25276001281f055/82c7493143f336007b632d728e268a1b"
+  },
+  {
+    "id": "bristol",
+    "title": "Connect Bristol",
+    "url": "https://connectbristolpd.org",
+    "location": {
+      "city": "Bristol",
+      "state": "CT",
+      "coords": {
+        "lat": 41.67428,
+        "lng": -72.94684
+      }
+    },
+    "registry": "https://bristolctpd.fususregistry.com/camera-registry",
+    "org": "bristolctpd",
+    "image": "https://cdn.swell.store/fusus-atlanta/6a873881b2f80b00133f192c/6933d949d172e30c9a0a663d42989084?width=1800&height=700"
   },
   {
     "id": "hartford",
@@ -1904,6 +1984,22 @@
     "image": "https://cdn.schema.io/fusus-atlanta/6230c4c0281b2601326736ac/5fdc67a55ea768134b7ff17169af7c09?width=1600&height=800"
   },
   {
+    "id": "brunswick",
+    "title": "Connect Brunswick",
+    "url": "https://connectbrunswick.org",
+    "location": {
+      "city": "Brunswick",
+      "state": "GA",
+      "coords": {
+        "lat": 31.14607,
+        "lng": -81.49506
+      }
+    },
+    "registry": "https://brunswickpdga.fususregistry.com/camera-registry",
+    "org": "brunswickpdga",
+    "image": "https://cdn.swell.store/fusus-atlanta/6a71e1b70880800012dfe54a/26c27a9ab84489a683a6a7679f6c4b67"
+  },
+  {
     "id": "cherokee",
     "title": "Connect Cherokee",
     "url": "https://safecherokee.org",
@@ -2336,6 +2432,38 @@
     "image": "https://cdn.swell.store/fusus-atlanta/67d831ee2ddedc0012159dfb/aafb622ebd5ca8ecc6d4a2a2fee08ac0"
   },
   {
+    "id": "dubuque",
+    "title": "Connect Dubuque",
+    "url": "https://connectdubuque.org",
+    "location": {
+      "city": "Dubuque",
+      "state": "IA",
+      "coords": {
+        "lat": 42.5017,
+        "lng": -90.66549
+      }
+    },
+    "registry": "https://dubuquepdia.fususregistry.com/camera-registry",
+    "org": "dubuquepdia",
+    "image": "https://cdn.swell.store/fusus-atlanta/69bd5c8f7fe8bc0012fb9ab1/5ee71e260ffd0ea71babd9b8a30a2a66"
+  },
+  {
+    "id": "fort-dodge",
+    "title": "Fort Dodge CARES",
+    "url": "https://fortdodgecares.org",
+    "location": {
+      "city": "Fort Dodge",
+      "state": "IA",
+      "coords": {
+        "lat": 42.50444,
+        "lng": -94.18813
+      }
+    },
+    "registry": "https://fortdodgepdia.fususregistry.com/camera-registry",
+    "org": "fortdodgepdia",
+    "image": "https://cdn.swell.store/fusus-atlanta/6a846f3820b4cd00127abfeb/b88fbf37301d61dcc0f8e6e37e7505e7?width=1600&height=500"
+  },
+  {
     "id": "caldwell",
     "title": "Connect Caldwell",
     "url": "https://connectcaldwell.org",
@@ -2350,6 +2478,22 @@
     "registry": "https://caldwellpdid.fususregistry.com/camera-registry",
     "org": "caldwellpdid",
     "image": "https://cdn.swell.store/fusus-atlanta/696f951e2a78a50012496582/bc4dea42bd4dc309234fdb0f8f7fda80"
+  },
+  {
+    "id": "meridian-id",
+    "title": "Connect MPD",
+    "url": "https://connectmpd.org",
+    "location": {
+      "city": "Meridian",
+      "state": "ID",
+      "coords": {
+        "lat": 43.60008,
+        "lng": -116.37667
+      }
+    },
+    "registry": "https://meridianpdid.fususregistry.com/camera-registry",
+    "org": "meridianpdid",
+    "image": "https://cdn.swell.store/fusus-atlanta/6a32cb6596384b00120719e0/112c528740094a76ba1f420badd7654f"
   },
   {
     "id": "alsip",
@@ -3696,6 +3840,22 @@
     "image": "https://cdn.swell.store/fusus-atlanta/6627f4b3baa70000121a2c81/3e3e702b07dfcd2abd655b995369bf15/background.jpg"
   },
   {
+    "id": "duck-nc",
+    "title": "Connect Duck",
+    "url": "https://connectduckpdnc.org",
+    "location": {
+      "city": "Duck",
+      "state": "NC",
+      "coords": {
+        "lat": 36.16558,
+        "lng": -75.75402
+      }
+    },
+    "registry": "https://duckpdnc.fususregistry.com/camera-registry",
+    "org": "duckpdnc",
+    "image": "https://cdn.swell.store/fusus-atlanta/6a997473661dad00117b3352/77e962323a7ebd090f66a044e7d18008?width=1800&height=600"
+  },
+  {
     "id": "fayetteville",
     "title": "Connect Fayetteville",
     "url": "https://connectfayetteville.org",
@@ -4910,6 +5070,22 @@
     "registry": "https://webbcountyso.fususregistry.com/camera-registry",
     "org": "webbcountyso",
     "image": "https://cdn.swell.store/fusus-atlanta/683eebdad186cd00120b2cf6/2a8ccf340574341f1acf6de212fa03c0?width=1600&height=600"
+  },
+  {
+    "id": "alexandria",
+    "title": "Connect Alexandria",
+    "url": "https://connectalexandria.org",
+    "location": {
+      "city": "Alexandria",
+      "state": "VA",
+      "coords": {
+        "lat": 38.80719,
+        "lng": -77.09174
+      }
+    },
+    "registry": "https://alexandriapd.fususregistry.com/camera-registry",
+    "org": "alexandriapd",
+    "image": "https://cdn.swell.store/fusus-atlanta/6659d3aef69888001258468e/d4ade78d49b92b66e15e58d4b2396938/background.jpg"
   },
   {
     "id": "chesterfield",

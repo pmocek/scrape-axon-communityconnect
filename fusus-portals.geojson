@@ -26,6 +26,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -147.82212,
+          64.85846
+        ]
+      },
+      "properties": {
+        "id": "uni-alaska",
+        "title": "Connect University of Alaska Fairbanks",
+        "url": "https://connectuaf.org",
+        "city": "University of Alaska Fairbanks",
+        "state": "AK",
+        "registry": null,
+        "org": null,
+        "image": "https://cdn.swell.store/fusus-atlanta/6a43bf98265b5f00121e7954/a0e03033d3bd054b22ec0b99d385e80b?width=1800&height=700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.834166,
           33.2743809
         ]
@@ -219,6 +239,26 @@
         "registry": "https://pellcitypd.fususregistry.com/camera-registry",
         "org": "pellcitypd",
         "image": "https://cdn.swell.store/fusus-atlanta/66ab9967c1db9700128df434/5d6a500a8b7c203f9ae89b2202d6ba5d/background-1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.60337,
+          33.62084
+        ]
+      },
+      "properties": {
+        "id": "trussville",
+        "title": "Connect Trussville",
+        "url": "https://trussvilleconnect.org",
+        "city": "Trussville",
+        "state": "AL",
+        "registry": "https://trussvillepd.fususregistry.com/camera-registry",
+        "org": "trussvillepd",
+        "image": "https://cdn.swell.store/fusus-atlanta/69cd357463565200121a2163/f4e42a652a10de682f5630f04a1235f6"
       }
     },
     {
@@ -559,6 +599,46 @@
         "registry": "https://elcajonpdca.fususregistry.com/camera-registry",
         "org": "elcajonpdca",
         "image": "https://cdn.swell.store/fusus-atlanta/6925d72b2ca2da001280cddf/1a19a8b7b485eaabde2e159b401f2eaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.95215,
+          33.70887
+        ]
+      },
+      "properties": {
+        "id": "fount-valley",
+        "title": "SafeFV",
+        "url": "https://safefv.org",
+        "city": "Fountain Valley",
+        "state": "CA",
+        "registry": "https://fountainvalleypdca.fususregistry.com/camera-registry",
+        "org": "fountainvalleypdca",
+        "image": "https://cdn.swell.store/fusus-atlanta/6a43d413f8a885001223f6d0/7b6aeea26329d23e43aee4701c35c168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.93576,
+          33.77649
+        ]
+      },
+      "properties": {
+        "id": "garden-grove",
+        "title": "Connect Garden Grove",
+        "url": "https://connectgardengrove.org",
+        "city": "Garden Grove",
+        "state": "CA",
+        "registry": "https://gardengrovepdca.fususregistry.com/camera-registry",
+        "org": "gardengrovepdca",
+        "image": "https://cdn.swell.store/fusus-atlanta/6a189f5d50a5090012594cd2/bd5c6c98288c2273123cc57511fabcc2"
       }
     },
     {
@@ -1319,6 +1399,26 @@
         "registry": "https://montrosepdco.fususregistry.com/camera-registry",
         "org": "montrosepdco",
         "image": "https://cdn.swell.store/fusus-atlanta/6931cd93a25276001281f055/82c7493143f336007b632d728e268a1b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.94684,
+          41.67428
+        ]
+      },
+      "properties": {
+        "id": "bristol",
+        "title": "Connect Bristol",
+        "url": "https://connectbristolpd.org",
+        "city": "Bristol",
+        "state": "CT",
+        "registry": "https://bristolctpd.fususregistry.com/camera-registry",
+        "org": "bristolctpd",
+        "image": "https://cdn.swell.store/fusus-atlanta/6a873881b2f80b00133f192c/6933d949d172e30c9a0a663d42989084?width=1800&height=700"
       }
     },
     {
@@ -2386,6 +2486,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.49506,
+          31.14607
+        ]
+      },
+      "properties": {
+        "id": "brunswick",
+        "title": "Connect Brunswick",
+        "url": "https://connectbrunswick.org",
+        "city": "Brunswick",
+        "state": "GA",
+        "registry": "https://brunswickpdga.fususregistry.com/camera-registry",
+        "org": "brunswickpdga",
+        "image": "https://cdn.swell.store/fusus-atlanta/6a71e1b70880800012dfe54a/26c27a9ab84489a683a6a7679f6c4b67"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -84.49278869999999,
           34.1952972
         ]
@@ -2926,6 +3046,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -90.66549,
+          42.5017
+        ]
+      },
+      "properties": {
+        "id": "dubuque",
+        "title": "Connect Dubuque",
+        "url": "https://connectdubuque.org",
+        "city": "Dubuque",
+        "state": "IA",
+        "registry": "https://dubuquepdia.fususregistry.com/camera-registry",
+        "org": "dubuquepdia",
+        "image": "https://cdn.swell.store/fusus-atlanta/69bd5c8f7fe8bc0012fb9ab1/5ee71e260ffd0ea71babd9b8a30a2a66"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.18813,
+          42.50444
+        ]
+      },
+      "properties": {
+        "id": "fort-dodge",
+        "title": "Fort Dodge CARES",
+        "url": "https://fortdodgecares.org",
+        "city": "Fort Dodge",
+        "state": "IA",
+        "registry": "https://fortdodgepdia.fususregistry.com/camera-registry",
+        "org": "fortdodgepdia",
+        "image": "https://cdn.swell.store/fusus-atlanta/6a846f3820b4cd00127abfeb/b88fbf37301d61dcc0f8e6e37e7505e7?width=1600&height=500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -116.69107,
           43.66847
         ]
@@ -2939,6 +3099,26 @@
         "registry": "https://caldwellpdid.fususregistry.com/camera-registry",
         "org": "caldwellpdid",
         "image": "https://cdn.swell.store/fusus-atlanta/696f951e2a78a50012496582/bc4dea42bd4dc309234fdb0f8f7fda80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.37667,
+          43.60008
+        ]
+      },
+      "properties": {
+        "id": "meridian-id",
+        "title": "Connect MPD",
+        "url": "https://connectmpd.org",
+        "city": "Meridian",
+        "state": "ID",
+        "registry": "https://meridianpdid.fususregistry.com/camera-registry",
+        "org": "meridianpdid",
+        "image": "https://cdn.swell.store/fusus-atlanta/6a32cb6596384b00120719e0/112c528740094a76ba1f420badd7654f"
       }
     },
     {
@@ -4626,6 +4806,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.75402,
+          36.16558
+        ]
+      },
+      "properties": {
+        "id": "duck-nc",
+        "title": "Connect Duck",
+        "url": "https://connectduckpdnc.org",
+        "city": "Duck",
+        "state": "NC",
+        "registry": "https://duckpdnc.fususregistry.com/camera-registry",
+        "org": "duckpdnc",
+        "image": "https://cdn.swell.store/fusus-atlanta/6a997473661dad00117b3352/77e962323a7ebd090f66a044e7d18008?width=1800&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -78.8843851,
           35.0541801
         ]
@@ -6139,6 +6339,26 @@
         "registry": "https://webbcountyso.fususregistry.com/camera-registry",
         "org": "webbcountyso",
         "image": "https://cdn.swell.store/fusus-atlanta/683eebdad186cd00120b2cf6/2a8ccf340574341f1acf6de212fa03c0?width=1600&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09174,
+          38.80719
+        ]
+      },
+      "properties": {
+        "id": "alexandria",
+        "title": "Connect Alexandria",
+        "url": "https://connectalexandria.org",
+        "city": "Alexandria",
+        "state": "VA",
+        "registry": "https://alexandriapd.fususregistry.com/camera-registry",
+        "org": "alexandriapd",
+        "image": "https://cdn.swell.store/fusus-atlanta/6659d3aef69888001258468e/d4ade78d49b92b66e15e58d4b2396938/background.jpg"
       }
     },
     {
