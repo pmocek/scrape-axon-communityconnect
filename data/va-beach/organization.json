@@ -1,6 +1,6 @@
 {
   "id": "6c66434b-1ba0-4503-ab96-ded39956a44d",
-  "name": "Virginia Beach PD - VA",
+  "name": "Virginia Beach Police Dept.",
   "publicName": "Virginia Beach Police Department",
   "logoUrl": "https://fususone-storage-prod-fusus-com.s3-fips.us-gov-west-1.amazonaws.com/virginia%20beach%20pd%20-%20va/logos/0d924137-6cbc-4d73-a3d8-174be7c77aa9.jpg",
   "supportUrl": null,
@@ -9,7 +9,7 @@
     "allowSsss": true,
     "isSsssTipAnonymous": false,
     "splashScreenFilename": null,
-    "city": null,
+    "city": "Virginia Beach",
     "state": "VA"
   },
   "mou": {
