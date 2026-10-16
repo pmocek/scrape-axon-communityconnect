@@ -6,7 +6,7 @@
   "supportUrl": null,
   "settings": {
     "timezone": "America/Los_Angeles",
-    "allowSsss": true,
+    "allowSsss": false,
     "isSsssTipAnonymous": false,
     "splashScreenFilename": null,
     "city": null,
