@@ -1,11 +1,11 @@
 {
   "id": "cc1ac9e4-65a2-4b0f-a340-c34b6a20f8fb",
-  "name": "Jefferson County SO - AL",
+  "name": "JEFFERSON COUNTY SHERIFF'S OFFICE",
   "publicName": "Jefferson County",
   "logoUrl": "https://fususone-storage-prod-fusus-com.s3-fips.us-gov-west-1.amazonaws.com/jefferson%20county%20so%20-%20al/logos/910cb5dd-8b31-4bbc-a311-dff38a2b5a5d.jpg",
   "supportUrl": null,
   "settings": {
-    "timezone": "US/Central",
+    "timezone": "America/Chicago",
     "allowSsss": true,
     "isSsssTipAnonymous": true,
     "splashScreenFilename": null,
