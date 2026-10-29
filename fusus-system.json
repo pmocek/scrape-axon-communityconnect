@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "version": "2026.38.1",
+  "version": "2026.39",
   "domains": {
     "fususone": "https://fususone.com",
     "fususoneApi": "https://api.fususone.com",
@@ -14,7 +14,8 @@
     "lprApi": "https://lpr-api.fususone.com",
     "websocketUrl": "https://wstunnel.fususone.com",
     "panicApi": "https://panic-api.fususone.com",
-    "alarmsExperienceApi": null
+    "alarmsExperienceApi": null,
+    "streamingApi": "https://streaming-api.main.axsp.usa.axon.com"
   },
   "clientVersions": {
     "DASHBOARD": {
