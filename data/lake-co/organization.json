@@ -1,11 +1,11 @@
 {
   "id": "d2837f47-a745-4227-9a0a-f95f5ab84e3e",
-  "name": "Lake County SO - FL",
+  "name": "Lake County Sheriff's Office - FL",
   "publicName": "Lake County Sheriff",
   "logoUrl": "https://fususone-storage-prod-fusus-com.s3-fips.us-gov-west-1.amazonaws.com/lake%20county%20so%20-%20fl/logos/782c02ee-1efe-4572-b01b-c76a3e08420d.png",
   "supportUrl": null,
   "settings": {
-    "timezone": "US/Eastern",
+    "timezone": "America/New_York",
     "allowSsss": true,
     "isSsssTipAnonymous": false,
     "splashScreenFilename": null,
