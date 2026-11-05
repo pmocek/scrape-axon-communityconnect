@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "version": "2026.39.2",
+  "version": "2026.40",
   "domains": {
     "fususone": "https://fususone.com",
     "fususoneApi": "https://api.fususone.com",
@@ -15,6 +15,7 @@
     "websocketUrl": "https://wstunnel.fususone.com",
     "panicApi": "https://panic-api.fususone.com",
     "alarmsExperienceApi": null,
+    "atlasOneApi": "https://atlasone.main.fusus.usa.axon.com",
     "streamingApi": "https://streaming-api.main.axsp.usa.axon.com"
   },
   "clientVersions": {
@@ -24,7 +25,7 @@
   },
   "serviceVersions": {
     "ruleengine": {
-      "version": "2026.10",
+      "version": "2026.11",
       "reachable": true
     }
   }
