@@ -1,0 +1,27 @@
+{
+  "id": "12a0dd6d-3bef-421d-b48b-7213870973ca",
+  "name": "Medford Police Dept",
+  "publicName": "Medford Police Department",
+  "logoUrl": "https://fususone-storage-prod-fusus-com.s3-fips.us-gov-west-1.amazonaws.com/medford%20police%20dept/logos/2f71eae7-083a-4f34-9b42-bcb0e200eb61.PNG",
+  "supportUrl": null,
+  "settings": {
+    "timezone": "America/Los_Angeles",
+    "allowSsss": false,
+    "isSsssTipAnonymous": false,
+    "splashScreenFilename": null,
+    "city": "Medford",
+    "state": "OR"
+  },
+  "mou": {
+    "updatedTimestamp": "2026-10-29T16:37:03.972277Z",
+    "mouTemplate": "<p><strong>Protect Medford Camera Registry Agreement</strong></p><p><br></p><p>By registering your security cameras, you agree to share the location of your cameras with the Medford Police Department for investigative and emergency response purposes. Registration does not provide live access, remote access, or automatic video access to your cameras.</p><p><br></p><p>Your registration information is accessible only to authorized Medford Police Department personnel and is used solely for official purposes.</p><p><br></p><p>If an incident occurs near your registered location, investigators may contact you directly using the information you provide to request relevant video footage. You choose whether to share footage, and you may update or remove your registration at any time by contacting <a href=\"mailto:tiu@cityofmedford.org\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(17, 85, 204);\">tiu@cityofmedford.org</a>.</p><p>&nbsp;</p><p>Please scroll down to accept:</p><p><br></p><ul><li>Your registration is <strong>not final</strong> until you click the green I<strong> AGREE</strong> button.</li><li>Scroll inside the disclaimer box until the <strong>I AGREE</strong> button appears and activates.</li><li>If the button isn\u2019t visible, keep scrolling until it turns green.</li><li>If you don\u2019t see the yellow scroll bar<strong> </strong>or can\u2019t scroll, <strong>increase your browser zoom</strong> (often around <strong>125%</strong>) until the scroll bar shows</li></ul>"
+  },
+  "favicoUrl": null,
+  "loginVideoUrl": null,
+  "backgroundUrl": null,
+  "registryRedirectUrl": null,
+  "registryContent": false,
+  "allowRegistry": true,
+  "registryHasMou": true,
+  "registryRequireEmailConfirmation": false
+}

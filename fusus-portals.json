@@ -594,7 +594,7 @@
   {
     "id": "los-gatos",
     "title": "Community Protecht",
-    "url": "https://communityprotecht.org",
+    "url": "https://communityprotechtlgms.org",
     "location": {
       "city": "Los Gatos",
       "state": "CA",
@@ -1319,8 +1319,8 @@
       "city": "Charlotte County",
       "state": "FL",
       "coords": {
-        "lat": 26.9215725,
-        "lng": -82.00349150000001
+        "lat": 26.98635,
+        "lng": -82.05669
       }
     },
     "registry": "https://charlottecounty.fususregistry.com/camera-registry",
@@ -2343,8 +2343,8 @@
       "city": "Savannah",
       "state": "GA",
       "coords": {
-        "lat": 32.0182983,
-        "lng": -81.1111015
+        "lat": 32.07555,
+        "lng": -81.08887
       }
     },
     "registry": "https://savannahpd.fususregistry.com/camera-registry",
@@ -3243,8 +3243,8 @@
         "lng": -76.58895
       }
     },
-    "registry": "https://baltimorecountypd.fususregistry.com/camera-registry",
-    "org": "baltimorecountypd",
+    "registry": "https://baltimorecpd.fususregistry.com/camera-registry",
+    "org": "baltimorecpd",
     "image": "https://cdn.swell.store/fusus-atlanta/686fc8bdb6dac200125358a0/e2384254a794671d0c5f2bdc85989944"
   },
   {
@@ -3984,6 +3984,22 @@
     "image": "https://cdn.schema.io/fusus-atlanta/6390b1069516060012166710/1cdbad2a051432e9911bffcb5501779b"
   },
   {
+    "id": "salisbury",
+    "title": "Connect Salisbury",
+    "url": "https://connectsalisburync.org",
+    "location": {
+      "city": "Salisbury",
+      "state": "NC",
+      "coords": {
+        "lat": 35.66858,
+        "lng": -80.46916
+      }
+    },
+    "registry": "https://salisburypdnc.fususregistry.com/camera-registry",
+    "org": "salisburypdnc",
+    "image": "https://cdn.swell.store/fusus-atlanta/69987e4e5fdf0200128572d4/e39c74cad68545b9254ac752222c6d28?width=1600&height=600"
+  },
+  {
     "id": "winston-salem",
     "title": "Connect Winston-Salem",
     "url": "https://connectwinstonsalem.org",
@@ -4464,6 +4480,22 @@
     "image": "https://cdn.swell.store/fusus-atlanta/66fff97f6675820012155cad/8cf52c2d03b90ff99009cf260d775b96/background.jpg"
   },
   {
+    "id": "westlake",
+    "title": "Westlake Safety Connect",
+    "url": "https://westlakesafetyconnect.org",
+    "location": {
+      "city": "Westlake",
+      "state": "OH",
+      "coords": {
+        "lat": 41.46042,
+        "lng": -81.92286
+      }
+    },
+    "registry": "https://westlakepdoh.fususregistry.com/camera-registry",
+    "org": "westlakepdoh",
+    "image": "https://cdn.swell.store/fusus-atlanta/6af1d515eff3f40011462f2e/7a85d801206719c9d78d5a320f58169a"
+  },
+  {
     "id": "whitehall",
     "title": "Connect Whitehall",
     "url": "https://connectwhitehall.org",
@@ -4526,6 +4558,22 @@
     "registry": "https://bendpd.fususregistry.com/camera-registry",
     "org": "bendpd",
     "image": "https://cdn.swell.store/fusus-atlanta/6643ab93c6e6040012c040f2/cf92d45ad98764e2be9ac0f035b495e5/background.jpg"
+  },
+  {
+    "id": "medford",
+    "title": "Protect Medford",
+    "url": "https://protectmedfordor.org",
+    "location": {
+      "city": "Medford",
+      "state": "OR",
+      "coords": {
+        "lat": 42.32246,
+        "lng": -122.87425
+      }
+    },
+    "registry": "https://medfordpdor.fususregistry.com/camera-registry",
+    "org": "medfordpdor",
+    "image": "https://cdn.swell.store/fusus-atlanta/6a5f7bb41eeffb0012cbb5cf/0c7e92e52c7c4615f34d0471597926e4?width=1800&height=600"
   },
   {
     "id": "bensalem",
@@ -5291,8 +5339,8 @@
         "lng": -77.44464959999999
       }
     },
-    "registry": "https://richmondva.fususregistry.com/camera-registry",
-    "org": "richmondva",
+    "registry": "https://richmondpdva.fususregistry.com/camera-registry",
+    "org": "richmondpdva",
     "image": "https://cdn.swell.store/fusus-atlanta/6633e26b36f8a90012234544/dc7996112a0e502fe83f9c50778a2b57/background.jpg"
   },
   {

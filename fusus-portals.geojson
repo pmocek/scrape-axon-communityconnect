@@ -753,7 +753,7 @@
       "properties": {
         "id": "los-gatos",
         "title": "Community Protecht",
-        "url": "https://communityprotecht.org",
+        "url": "https://communityprotechtlgms.org",
         "city": "Los Gatos",
         "state": "CA",
         "registry": "https://losgatospdca.fususregistry.com/camera-registry",
@@ -1646,8 +1646,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.00349150000001,
-          26.9215725
+          -82.05669,
+          26.98635
         ]
       },
       "properties": {
@@ -2926,8 +2926,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.1111015,
-          32.0182983
+          -81.08887,
+          32.07555
         ]
       },
       "properties": {
@@ -4056,8 +4056,8 @@
         "url": "https://camsharebaltimorecounty.org",
         "city": "Baltimore County",
         "state": "MD",
-        "registry": "https://baltimorecountypd.fususregistry.com/camera-registry",
-        "org": "baltimorecountypd",
+        "registry": "https://baltimorecpd.fususregistry.com/camera-registry",
+        "org": "baltimorecpd",
         "image": "https://cdn.swell.store/fusus-atlanta/686fc8bdb6dac200125358a0/e2384254a794671d0c5f2bdc85989944"
       }
     },
@@ -4986,6 +4986,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.46916,
+          35.66858
+        ]
+      },
+      "properties": {
+        "id": "salisbury",
+        "title": "Connect Salisbury",
+        "url": "https://connectsalisburync.org",
+        "city": "Salisbury",
+        "state": "NC",
+        "registry": "https://salisburypdnc.fususregistry.com/camera-registry",
+        "org": "salisburypdnc",
+        "image": "https://cdn.swell.store/fusus-atlanta/69987e4e5fdf0200128572d4/e39c74cad68545b9254ac752222c6d28?width=1600&height=600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.248469,
           36.1041318
         ]
@@ -5586,6 +5606,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.92286,
+          41.46042
+        ]
+      },
+      "properties": {
+        "id": "westlake",
+        "title": "Westlake Safety Connect",
+        "url": "https://westlakesafetyconnect.org",
+        "city": "Westlake",
+        "state": "OH",
+        "registry": "https://westlakepdoh.fususregistry.com/camera-registry",
+        "org": "westlakepdoh",
+        "image": "https://cdn.swell.store/fusus-atlanta/6af1d515eff3f40011462f2e/7a85d801206719c9d78d5a320f58169a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -82.8856194,
           39.96833609999999
         ]
@@ -5659,6 +5699,26 @@
         "registry": "https://bendpd.fususregistry.com/camera-registry",
         "org": "bendpd",
         "image": "https://cdn.swell.store/fusus-atlanta/6643ab93c6e6040012c040f2/cf92d45ad98764e2be9ac0f035b495e5/background.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.87425,
+          42.32246
+        ]
+      },
+      "properties": {
+        "id": "medford",
+        "title": "Protect Medford",
+        "url": "https://protectmedfordor.org",
+        "city": "Medford",
+        "state": "OR",
+        "registry": "https://medfordpdor.fususregistry.com/camera-registry",
+        "org": "medfordpdor",
+        "image": "https://cdn.swell.store/fusus-atlanta/6a5f7bb41eeffb0012cbb5cf/0c7e92e52c7c4615f34d0471597926e4?width=1800&height=600"
       }
     },
     {
@@ -6616,8 +6676,8 @@
         "url": "https://richmondconnect.org",
         "city": "Richmond",
         "state": "VA",
-        "registry": "https://richmondva.fususregistry.com/camera-registry",
-        "org": "richmondva",
+        "registry": "https://richmondpdva.fususregistry.com/camera-registry",
+        "org": "richmondpdva",
         "image": "https://cdn.swell.store/fusus-atlanta/6633e26b36f8a90012234544/dc7996112a0e502fe83f9c50778a2b57/background.jpg"
       }
     },
