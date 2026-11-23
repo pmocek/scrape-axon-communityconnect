@@ -19,6 +19,6 @@
   "registryRedirectUrl": null,
   "registryContent": false,
   "allowRegistry": true,
-  "registryHasMou": true,
+  "registryHasMou": false,
   "registryRequireEmailConfirmation": false
 }
