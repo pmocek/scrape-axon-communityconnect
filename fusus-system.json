@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "version": "2026.42.1",
+  "version": "2026.43",
   "domains": {
     "fususone": "https://fususone.com",
     "fususoneApi": "https://api.fususone.com",
@@ -25,7 +25,7 @@
   },
   "serviceVersions": {
     "ruleengine": {
-      "version": "2026.13",
+      "version": "2026.14.0",
       "reachable": true
     }
   }
